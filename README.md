@@ -1,4 +1,3 @@
 # EduCore
-
-This is my fisrt branch
-Now I goint to edit a new line above (Pino):
+This is my second branch
+Now i'm going to edit a new line below:
